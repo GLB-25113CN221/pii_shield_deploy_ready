@@ -1,0 +1,12 @@
+# Forces a light theme so text, uploaders and tables stay readable
+# even when the viewer's browser or OS is in dark mode.
+[theme]
+base = "light"
+primaryColor = "#2B2FA0"
+backgroundColor = "#F3F4F9"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#14173A"
+font = "sans serif"
+
+[browser]
+gatherUsageStats = false
